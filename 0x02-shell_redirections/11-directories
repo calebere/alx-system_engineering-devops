@@ -1,2 +1,2 @@
 #!/bin/bash
-find -indepth 1 -type | w -l
+find ./* -type d -print | wc -l
