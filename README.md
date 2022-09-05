@@ -1,1 +1,1 @@
-Read me first before proceeding
+This contains folders on shell commands and manipulations studied at ALX
