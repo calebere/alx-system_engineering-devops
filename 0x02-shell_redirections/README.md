@@ -1,0 +1,1 @@
+creating redirects in shell
