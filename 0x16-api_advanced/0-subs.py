@@ -8,7 +8,7 @@ import sys
 
 def number_of_subscribers(subreddit):
     """ Returns the number of subscribers for a given subreddit """
-    user_agent = 'Mozilla/115.0.1'
+    user_agent = 'Mozilla/5.0'
     headers = {
         'User-Agent': user_agent
     }
